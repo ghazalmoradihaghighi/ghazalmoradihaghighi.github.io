@@ -1,13 +1,7 @@
 ---
-
 permalink: /
 title: "About"
 author_profile: true
-redirect_from:
-
-* /about/
-* /about.html
-
 ---
 
 I am a Ph.D. student in Computer Science at Clemson University, advised by Dr. Zhenkai Zhang. My research interests include computer systems security, side-channel attacks, and GPU security.
