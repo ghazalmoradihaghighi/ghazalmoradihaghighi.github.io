@@ -1,12 +1,12 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Fatemeh (Ghazal) Moradihaghighi"
+title                    : "Fatemeh Moradi Haghighi"
 title_separator          : "-"
-name                     : &name "Fatemeh (Ghazal) Moradihaghighi"
-description              : &description "Personal academic website of Fatemeh (Ghazal) Moradihaghighi"
+name                     : &name "Fatemeh Moradi Haghighi"
+description              : &description "Personal academic website of Fatemeh Moradi Haghighi"
 url                      : "https://ghazalmoradihaghighi.github.io"
 baseurl                  : ""
 repository               : "ghazalmoradihaghighi/ghazalmoradihaghighi.github.io"
@@ -14,7 +14,7 @@ repository               : "ghazalmoradihaghighi/ghazalmoradihaghighi.github.io"
 # Site Author
 author:
   avatar           : "avatar.png"
-  name             : "Fatemeh (Ghazal) Moradihaghighi"
+  name             : "Fatemeh Moradi Haghighi"
   pronouns         :
   bio              : "Ph.D. student in Computer Science at Clemson University. Research interests: computer systems security, side-channel attacks, and GPU security."
   location         : "Clemson, South Carolina"
@@ -106,7 +106,7 @@ og_description           :
 
 social:
   type                   : "Person"
-  name                   : "Fatemeh (Ghazal) Moradihaghighi"
+  name                   : "Fatemeh Moradi Haghighi"
   links:
 
 # Analytics
