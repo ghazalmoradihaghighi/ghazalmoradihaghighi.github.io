@@ -1,32 +1,24 @@
-# The following is the order of the links in the header of the website.
-
+﻿# The following is the order of the links in the header of the website.
 # Only CV is shown for now. Other tabs are commented out for later.
 
 main:
+  - title: "CV"
+    url: /cv/
 
-* title: "CV"
-  url: /cv/
+#  - title: "Publications"
+#    url: /publications/
 
-# - title: "Publications"
+#  - title: "Talks"
+#    url: /talks/
 
-# url: /publications/
+#  - title: "Teaching"
+#    url: /teaching/
 
-# - title: "Talks"
+#  - title: "Portfolio"
+#    url: /portfolio/
 
-# url: /talks/
+#  - title: "Blog Posts"
+#    url: /year-archive/
 
-# - title: "Teaching"
-
-# url: /teaching/
-
-# - title: "Portfolio"
-
-# url: /portfolio/
-
-# - title: "Blog Posts"
-
-# url: /year-archive/
-
-# - title: "Guide"
-
-# url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
