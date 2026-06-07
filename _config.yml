@@ -13,7 +13,7 @@ repository               : "ghazalmoradihaghighi/ghazalmoradihaghighi.github.io"
 
 # Site Author
 author:
-  avatar           :
+  avatar           : "avatar.png"
   name             : "Fatemeh Moradi Haghighi"
   pronouns         :
   bio              : "Ph.D. student in Computer Science at Clemson University. Research interests: computer systems security, side-channel attacks, and GPU security."
