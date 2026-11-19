@@ -1,4 +1,3 @@
-
 ---
 title: "Trapped Handler: A Practical Performance Degradation Attack on NVIDIA vGPU via Preemption Manipulation"
 collection: publications

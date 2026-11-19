@@ -1,4 +1,3 @@
-
 ---
 title: "Beyond Software Feedback: Using Physical Signals to Guide Firmware Fuzzing in Vehicular Electronic Control Units"
 collection: talks
